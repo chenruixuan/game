@@ -5,3 +5,6 @@
 为方便文件管理。使用了thinkphp框架作为总框架
 
 
+#Color
+色块游戏
+访问方法：域名/index.php?s=home/index/color

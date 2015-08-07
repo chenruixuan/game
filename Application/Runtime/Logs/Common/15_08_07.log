@@ -1,0 +1,12 @@
+[ 2015-08-07T15:35:58+08:00 ] ::1 /index.php/game/pin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001056s ]
+ERR: 无法加载模块:Game
+
+[ 2015-08-07T15:36:08+08:00 ] ::1 /index.php/color
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001946s ]
+ERR: 无法加载模块:Color
+
